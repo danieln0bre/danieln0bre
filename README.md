@@ -1,7 +1,6 @@
 - 👋 Bachelor student in the UFRN college, Brazil.
 - 💡 Interested in Data Science and Machine Learning.
 - 💻 Currently studying C++ and Python.
-- 🏀 Gym, sports and games.
 - ⭐ Seeking to improve everyday!
 
 
