@@ -1,6 +1,6 @@
 - 👋 Bachelor student in the UFRN college, Brazil.
-- 💡 Interested in Data Science and Machine Learning.
-- 💻 Currently studying Deep Learning.
+- 💡 Interested in Machine Learning, IoT.
+- 💻 Currently studying Django.
 - ⭐ Seeking to improve everyday!
 
 
