@@ -1,5 +1,5 @@
 - 👋 IT Bachelor student in the UFRN college, Brazil.
-- 💡 Interested in Machine Learning, Internet of Things and Cyber Security.
+- 💡 Interested in Machine Learning, Internet of Things and System's Development.
 - 💻 Python | Django
 - ⭐ Seeking to improve everyday!
 
