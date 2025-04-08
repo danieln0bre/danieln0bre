@@ -1,13 +1,35 @@
-👋 About Me
+
 I'm an IT Bachelor student at UFRN, Brazil, passionate about technology and its potential to create innovative solutions. My interests lie in:
 
 - 💡 Machine Learning: Exploring algorithms, models, and data to create intelligent systems.
 - 🌐 Internet of Things (IoT): Connecting devices to enhance automation and efficiency.
 - 🛠️ System Development: Building robust and scalable applications.
 
-💻 Technical Skills
-- Backend Development:
-  - Python Django: Creating web applications with Django, focusing on clean code and efficient architectures.
-  - Java Spring: Developing enterprise-level applications using the Spring framework.
+<h1 align="center">
+👋 About Me
+</h1>
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=danieln0bre&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=danieln0bre&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+I'm an IT Bachelor student at UFRN, Brazil, passionate about technology and its potential to create innovative solutions. My interests lie in:
+
+- 💡 Machine Learning: Exploring algorithms, models, and data to create intelligent systems.
+- 🌐 Internet of Things (IoT): Connecting devices to enhance automation and efficiency.
+- 🛠️ System Development: Building robust and scalable applications.
+
+## Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java)]()
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=git,docker)]()
+
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs)]()
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)]()
+
+[![My Skills](https://skillicons.dev/icons?i=react)]()
+
+<br />
+
+<div> 
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieln0bre&langs_count=10&hide=vue,html,css&layout=compact&show_icons=true&theme=github_dark">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=danieln0bre&show_icons=true&theme=github_dark">
+</div>
