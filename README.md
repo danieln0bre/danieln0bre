@@ -21,11 +21,10 @@ I'm an IT Bachelor student at UFRN, Brazil, passionate about technology and its 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=git,docker)]()
 
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs)]()
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,react)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongo)]()
 
-[![My Skills](https://skillicons.dev/icons?i=react)]()
 
 <br />
 
