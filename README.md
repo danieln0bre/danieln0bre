@@ -8,6 +8,9 @@ My interests lie in:
 - 💡 Machine Learning: Exploring algorithms, models, and data to create intelligent systems.
 - 🌐 Internet of Things (IoT): Connecting devices to enhance automation and efficiency.
 - 🛠️ System Development: Building robust and scalable applications.
+<div>
+   <a href="https://www.linkedin.com/in/danieln0bre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js)]()
@@ -22,6 +25,4 @@ My interests lie in:
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=danieln0bre&show_icons=true&theme=github_dark">
 </div>
 
-<div>
-   <a href="https://www.linkedin.com/in/danieln0bre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+
