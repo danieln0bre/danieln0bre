@@ -2,7 +2,7 @@
 👋 About Me
 </h1>
 
-I'm an IT Bachelor student at UFRN, Brazil, passionate about technology and its potential to create innovative solutions. 
+I'm a Junior System Analyst at CI&T and IT Bachelor student at UFRN, passionate about technology and its potential to create innovative solutions.
 My interests lie in:
 
 - 💡 Machine Learning: Exploring algorithms, models, and data to create intelligent systems.
