@@ -2,7 +2,8 @@
 👋 About Me
 </h1>
 
-I'm an IT Bachelor student at UFRN, Brazil, passionate about technology and its potential to create innovative solutions. My interests lie in:
+I'm an IT Bachelor student at UFRN, Brazil, passionate about technology and its potential to create innovative solutions. 
+My interests lie in:
 
 - 💡 Machine Learning: Exploring algorithms, models, and data to create intelligent systems.
 - 🌐 Internet of Things (IoT): Connecting devices to enhance automation and efficiency.
