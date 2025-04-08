@@ -21,3 +21,7 @@ My interests lie in:
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieln0bre&langs_count=10&hide=vue,html,css&layout=compact&show_icons=true&theme=github_dark">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=danieln0bre&show_icons=true&theme=github_dark">
 </div>
+
+<div>
+   <a href="https://www.linkedin.com/in/danieln0bre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
