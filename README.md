@@ -10,10 +10,10 @@ My interests lie in:
 - 🛠️ System Development: Building robust and scalable applications.
 
 ## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=py,ts,js,java)]()
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js)]()
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker)]()
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman)]()
 
 [![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,react)]()
 
