@@ -13,12 +13,7 @@ My interests lie in:
 [![My Skills](https://skillicons.dev/icons?i=java,py,ts,js)]()
 
 ## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,postman)]()
-
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,react)]()
-
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongo)]()
-
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,spring,django,nodejs,react,mysql,mongo)]()
 
 <br />
 
