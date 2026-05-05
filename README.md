@@ -2,21 +2,36 @@
 👋 About Me
 </h1>
 
-I'm a Junior System Analyst at CI&T and IT Bachelor student at UFRN, passionate about technology and its potential to create innovative solutions.
-My interests lie in:
+Backend developer at CI&T transitioning into Application Security. Currently pursuing a postgraduate specialization in Cybersecurity at CESAR School (CIBER20261), with a focus on building secure systems from the inside out — leveraging years of Java/Spring backend experience to think about software the way attackers do.
 
-- 💡 Machine Learning: Exploring algorithms, models, and data to create intelligent systems.
-- 🌐 Internet of Things (IoT): Connecting devices to enhance automation and efficiency.
-- 🛠️ System Development: Building robust and scalable applications.
+My current focus:
+- 🔐 **Application Security**: Web vulnerabilities (OWASP Top 10), secure code review, threat modeling
+- ⚙️ **DevSecOps**: SAST, DAST, SCA, and integrating security gates into CI/CD pipelines
+- ☕ **Secure backend engineering**: Java/Spring Boot with a security-first mindset — input validation, parameterized queries, JWT/OAuth done right
+
 <div>
    <a href="https://www.linkedin.com/in/danieln0bre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=java,py,ts,js)]()
+## Languages
 
-## Tools
-[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,spring,django,nodejs,react,mysql,mongo)]()
+[![My Skills](https://skillicons.dev/icons?i=java,py,ts,bash)]()
+
+## Stack & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=spring,git,docker,postman,linux,postgres)]()
+
+## Security Tooling
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+## Currently Learning
+
+- 🧪 **PortSwigger Web Security Academy** — hands-on labs covering SQLi, XSS, access control, SSRF, and deserialization
+- 🐳 **OWASP Juice Shop** — full-stack vulnerability hunting and write-ups
+- 📚 **CESAR School Cybersecurity postgrad** — governance, AppSec, cloud security, code review, and offensive security
 
 <br />
 
@@ -24,5 +39,3 @@ My interests lie in:
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieln0bre&langs_count=10&hide=vue,html,css&layout=compact&show_icons=true&theme=github_dark">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=danieln0bre&show_icons=true&theme=github_dark">
 </div>
-
-
